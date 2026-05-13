@@ -1,6 +1,6 @@
-import logo from "./logo.svg";
+import logo from "./assets/img/logo.svg";
 import "./App.css";
-import { NavBar } from "./components/NavBar";
+import { NavBar } from "./components/Navbar/NavBar";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
